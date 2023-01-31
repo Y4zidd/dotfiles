@@ -1,4 +1,4 @@
-### AwesomeWM 
+# AwesomeWM 
 
 ### Dependencies
 
