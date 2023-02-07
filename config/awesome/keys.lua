@@ -41,7 +41,7 @@ keys.globalkeys = gears.table.join(
   awful.key({ mod }, 'Down', function() awful.client.incwfact(-0.05) end),
 
   -- Applications
-  awful.key({ mod }, 'Return', function() awful.util.spawn('kitty') end),
+  awful.key({ mod }, 'Return', function() awful.util.spawn('termite') end),
   awful.key({ mod }, 'e', function() awful.util.spawn('rofi -show drun -show-icons -theme apps') end),
   awful.key({ mod, "Shift" }, 'e',
     function() awful.util.spawn("rofi -modi emoji -show emoji -emoji-format '<span size=\"20pt\">{emoji}</span>' -emoji-mode copy -theme emoji") end)
