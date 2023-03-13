@@ -3,7 +3,7 @@
 ### Dependencies
 
 ```
-paru -S awesome-git picom-git zsh redshift thunar kitty rofi rofi-emoji xclip scrot gvfs ttf-jetbrains-mono noto-fonts noto-fonts-cjk networkmanager lxappearance materia-gtk-theme papirus-icon-theme lsd playerctl brightnessctl pipewire pipewire-alsa pipewire-pulse alsa-utils acpi
+yay -S awesome-git picom-git zsh redshift thunar kitty rofi rofi-emoji xclip scrot gvfs ttf-jetbrains-mono noto-fonts noto-fonts-cjk networkmanager lxappearance materia-gtk-theme papirus-icon-theme lsd playerctl brightnessctl pipewire pipewire-alsa pipewire-pulse alsa-utils acpi
 ```
 
 ### Install
