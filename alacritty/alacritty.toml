@@ -1,0 +1,44 @@
+import = ["~/.config/alacritty/themes/tokyonight_night.toml"]
+
+[env]
+TERM = "alacritty"
+
+[font]
+size = 1.4
+
+[font.bold]
+family = "JetBrainsMono NF"
+style = "Bold"
+
+[font.bold_italic]
+family = "JetBrainsMono NF"
+style = "Bold Italic"
+
+[font.italic]
+family = "JetBrainsMono NF"
+style = "Italic"
+
+[font.normal]
+family = "JetBrainsMono NF"
+style = "Regular"
+
+[[keyboard.bindings]]
+action = "CreateNewWindow"
+key = "N"
+mods = "Control|Shift"
+
+[window]
+dynamic_padding = true
+dynamic_title = true
+opacity = 1
+
+[selection]
+save_to_clipboard = true
+
+[window.padding]
+x = 0
+y = 0
+
+[window.dimensions]
+columns = 80
+lines = 30
