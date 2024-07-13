@@ -5,7 +5,7 @@ nitrogen --restore &
 dwmbar &
 
 #pa-applet
-pa-applet
+pa-applet &
 
 #premid-discord
 premid --disable-gpu-sandbox &
